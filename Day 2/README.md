@@ -1,4 +1,4 @@
-# Variables, Simple data types, and String interpolation
+# Arrays, Dictionaries, Sets, and Enums
 
 March 20<sup>th</sup> 2021
 

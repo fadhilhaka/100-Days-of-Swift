@@ -1,4 +1,4 @@
-# Variables, Simple data types, and String interpolation
+# Operators and Conditions
 
 March 20<sup>th</sup> 2021
 
