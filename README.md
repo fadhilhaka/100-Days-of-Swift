@@ -12,7 +12,7 @@ Do the following **every day** for **100 days**:
 ## Milestone
 
 | Day | Course | Description |
-|-----|:------:|-------------|
+|-----|--------|-------------|
 |[Day 1](https://www.hackingwithswift.com/100/1)| Introduction to Swift |variables, simple data types, and string interpolation|
 |[Day 2](https://www.hackingwithswift.com/100/2)|  |arrays, dictionaries, sets, and enums|
 |[Day 3](https://www.hackingwithswift.com/100/3)|  | operators and conditions|
