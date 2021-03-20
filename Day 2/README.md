@@ -71,7 +71,7 @@ enum CompassPoint {
 var directionToHead = CompassPoint.west
 ~~~
 
-## [Enumerations Associated Values](hhttps://www.hackingwithswift.com/sixty/2/9/enum-associated-values)
+## [Enumerations Associated Values](https://www.hackingwithswift.com/sixty/2/9/enum-associated-values)
 
 In Swift, an enumeration to define product barcodes of either type might look like this:
 
