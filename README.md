@@ -117,3 +117,7 @@ Do the following **every day** for **100 days**:
 ## Intention
 
 This repo is built to learn [Swift](https://developer.apple.com/swift/)  programming language using a challenge-based method.
+
+## Special Thanks
+
+Thanks to [Hacking with Swift](https://www.hackingwithswift.com/)'s author [**Paul Hudson**](https://www.hackingwithswift.com/about) for creating this challenge.
