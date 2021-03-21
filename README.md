@@ -13,18 +13,18 @@ Do the following **every day** for **100 days**:
 
 | Day | Course | Description |
 |:---:|--------|-------------|
-|[1](https://www.hackingwithswift.com/100/1)| Introduction to Swift |variables, simple data types, and string interpolation|
-|[2](https://www.hackingwithswift.com/100/2)|  |arrays, dictionaries, sets, and enums|
-|[3](https://www.hackingwithswift.com/100/3)|  | operators and conditions|
-|[4](https://www.hackingwithswift.com/100/4)|  | loops, loops, and more loops|
-|[5](https://www.hackingwithswift.com/100/5)|  | functions, parameters, and errors|
-|[6](https://www.hackingwithswift.com/100/6)|  | closures part one|
-|[7](https://www.hackingwithswift.com/100/7)|  | closures part two|
-|[8](https://www.hackingwithswift.com/100/8)|  | structs, properties, and methods|
-|[9](https://www.hackingwithswift.com/100/9)|  | access control, static properties, and laziness|
-|[10](https://www.hackingwithswift.com/100/10)|  | classes and inheritance|
-|[11](https://www.hackingwithswift.com/100/11)|  | protocols, extensions, and protocol extensions|
-|[12](https://www.hackingwithswift.com/100/12)|  | optionals, unwrapping, and typecasting|
+|[1](https://www.hackingwithswift.com/100/1)| Introduction to Swift | [variables, simple data types, and string interpolation](https://github.com/fadhilhaka/100-Days-of-Swift/tree/main/Day%201) |
+|[2](https://www.hackingwithswift.com/100/2)|  | [arrays, dictionaries, sets, and enums](https://github.com/fadhilhaka/100-Days-of-Swift/tree/main/Day%202) |
+|[3](https://www.hackingwithswift.com/100/3)|  | [operators and conditions](https://github.com/fadhilhaka/100-Days-of-Swift/tree/main/Day%203) |
+|[4](https://www.hackingwithswift.com/100/4)|  | [loops, loops, and more loops](https://github.com/fadhilhaka/100-Days-of-Swift/tree/main/Day%204) |
+|[5](https://www.hackingwithswift.com/100/5)|  | [functions, parameters, and errors](https://github.com/fadhilhaka/100-Days-of-Swift/tree/main/Day%205) |
+|[6](https://www.hackingwithswift.com/100/6)|  | [closures part one](https://github.com/fadhilhaka/100-Days-of-Swift/tree/main/Day%206) |
+|[7](https://www.hackingwithswift.com/100/7)|  | [closures part two](https://github.com/fadhilhaka/100-Days-of-Swift/tree/main/Day%207) |
+|[8](https://www.hackingwithswift.com/100/8)|  | [structs, properties, and methods](https://github.com/fadhilhaka/100-Days-of-Swift/tree/main/Day%208) |
+|[9](https://www.hackingwithswift.com/100/9)|  | [access control, static properties, and laziness](https://github.com/fadhilhaka/100-Days-of-Swift/tree/main/Day%209) |
+|[10](https://www.hackingwithswift.com/100/10)|  | [classes and inheritance](https://github.com/fadhilhaka/100-Days-of-Swift/tree/main/Day%2010) |
+|[11](https://www.hackingwithswift.com/100/11)|  | [protocols, extensions, and protocol extensions](https://github.com/fadhilhaka/100-Days-of-Swift/tree/main/Day%2011) |
+|[12](https://www.hackingwithswift.com/100/12)|  | [optionals, unwrapping, and typecasting](https://github.com/fadhilhaka/100-Days-of-Swift/tree/main/Day%2012) |
 |[13](https://www.hackingwithswift.com/100/13)| Consolidation I | Swift review, day one|
 |[14](https://www.hackingwithswift.com/100/14)|  | Swift review, day two|
 |[15](https://www.hackingwithswift.com/100/15)|  | Swift review, day three|
