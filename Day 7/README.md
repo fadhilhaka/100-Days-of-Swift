@@ -1,4 +1,4 @@
-# Closures Part 1
+# Closures Part 2
 
 March 21<sup>th</sup> 2021
 

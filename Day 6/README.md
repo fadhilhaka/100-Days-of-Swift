@@ -45,7 +45,7 @@ driving("London")
 
 ## [Returning values from a closure](https://www.hackingwithswift.com/sixty/6/3/returning-values-from-a-closure)
 
-A closure can capture constants and variables from the surrounding context in which it’s defined. The closure can then refer to and modify the values of those constants and variables from within its body, even if the original scope that defined the constants and variables no longer exists.
+Closures can also return values, and they are written similarly to parameters: you write them inside your closure, directly before the in keyword.
 
 Example for closure that returns a string, add **-> String** before **in**, then use return just like a normal function:
 
@@ -54,10 +54,6 @@ let drivingWithReturn = { (place: String) -> String in
     return "I'm going to \(place) in my car"
 }
 ~~~
-
->NOTE
->>As an optimization, Swift may instead capture and store a copy of a value if that value isn’t mutated by a closure, and if the value isn’t mutated after the closure is created.
-Swift also handles all memory management involved in disposing of variables when they’re no longer needed.
 
 ## [Closures as parameters](https://www.hackingwithswift.com/sixty/6/4/closures-as-parameters)
 
@@ -106,6 +102,3 @@ someFunctionThatTakesAClosure() {
 ~~~
 
 [Swift documentation](https://docs.swift.org/swift-book/LanguageGuide/Closures.html)
-
->NOTE
->>If you assign a closure to a property of a class instance, and the closure captures that instance by referring to the instance or its members, you will create a strong reference cycle between the closure and the instance. Swift uses capture lists to break these strong reference cycles. For more information, see [Strong Reference Cycles for Closures](https://docs.swift.org/swift-book/LanguageGuide/AutomaticReferenceCounting.html#ID56).
