@@ -1,6 +1,6 @@
 # Project I
 
-March 21<sup>th</sup> 2021
+March 22<sup>nd</sup> 2021
 
 ## [Project 1, Part One](https://www.hackingwithswift.com/100/16)
 

@@ -1,6 +1,6 @@
 # Closures Part 2
 
-March 21<sup>th</sup> 2021
+March 21<sup>st</sup> 2021
 
 ## [Using closures as parameters when they accept parameters](https://www.hackingwithswift.com/sixty/6/6/using-closures-as-parameters-when-they-accept-parameters)
 

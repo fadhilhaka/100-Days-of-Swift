@@ -1,6 +1,6 @@
 # Optionals, Unwrapping, and Typecasting
 
-March 21<sup>th</sup> 2021
+March 21<sup>st</sup> 2021
 
 ## [Handling missing data](https://www.hackingwithswift.com/sixty/10/1/handling-missing-data)
 

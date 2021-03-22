@@ -1,6 +1,6 @@
 # Protocols, Extensions, and Protocol extensions
 
-March 21<sup>th</sup> 2021
+March 21<sup>st</sup> 2021
 
 ## [Protocols](https://www.hackingwithswift.com/sixty/9/1/protocols)
 

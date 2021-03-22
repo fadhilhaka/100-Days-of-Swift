@@ -1,6 +1,6 @@
 # Structs, Properties, and Methods
 
-March 21<sup>th</sup> 2021
+March 21<sup>st</sup> 2021
 
 ## [Creating your own structs](https://www.hackingwithswift.com/sixty/7/1/creating-your-own-structs)
 

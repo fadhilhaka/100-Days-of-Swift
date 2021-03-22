@@ -1,6 +1,6 @@
 # Classes and Inheritance
 
-March 21<sup>th</sup> 2021
+March 21<sup>st</sup> 2021
 
 ## [Creating your own classes](https://www.hackingwithswift.com/sixty/8/1/creating-your-own-classes)
 

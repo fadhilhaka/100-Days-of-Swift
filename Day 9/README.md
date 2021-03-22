@@ -1,6 +1,6 @@
 # Access control, Static properties, and Laziness
 
-March 21<sup>th</sup> 2021
+March 21<sup>st</sup> 2021
 
 ## [Initializers](https://www.hackingwithswift.com/sixty/7/8/initializers)
 
