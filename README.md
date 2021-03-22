@@ -25,12 +25,12 @@ Do the following **every day** for **100 days**:
 |[10](https://www.hackingwithswift.com/100/10)|  | [classes and inheritance](https://github.com/fadhilhaka/100-Days-of-Swift/tree/main/Day%2010) |
 |[11](https://www.hackingwithswift.com/100/11)|  | [protocols, extensions, and protocol extensions](https://github.com/fadhilhaka/100-Days-of-Swift/tree/main/Day%2011) |
 |[12](https://www.hackingwithswift.com/100/12)|  | [optionals, unwrapping, and typecasting](https://github.com/fadhilhaka/100-Days-of-Swift/tree/main/Day%2012) |
-|[13](https://www.hackingwithswift.com/100/13)| Consolidation I | Swift review, day one|
-|[14](https://www.hackingwithswift.com/100/14)|  | Swift review, day two|
-|[15](https://www.hackingwithswift.com/100/15)|  | Swift review, day three|
-|[16](https://www.hackingwithswift.com/100/16)| Starting iOS | Project 1, part one|
-|[17](https://www.hackingwithswift.com/100/17)|  | Project 1, part two|
-|[18](https://www.hackingwithswift.com/100/18)|  | Project 1, part three|
+|[13](https://www.hackingwithswift.com/100/13)| Consolidation I | [Swift review, day one](https://github.com/fadhilhaka/100-Days-of-Swift/tree/main/Day%2013-15) |
+|[14](https://www.hackingwithswift.com/100/14)|  | [Swift review, day two](https://github.com/fadhilhaka/100-Days-of-Swift/tree/main/Day%2013-15) |
+|[15](https://www.hackingwithswift.com/100/15)|  | [Swift review, day three](https://github.com/fadhilhaka/100-Days-of-Swift/tree/main/Day%2013-15) |
+|[16](https://www.hackingwithswift.com/100/16)| Starting iOS | [Project 1, part one](https://github.com/fadhilhaka/100-Days-of-Swift/tree/main/Day%2016-18) |
+|[17](https://www.hackingwithswift.com/100/17)|  | [Project 1, part two](https://github.com/fadhilhaka/100-Days-of-Swift/tree/main/Day%2016-18) |
+|[18](https://www.hackingwithswift.com/100/18)|  | [Project 1, part three](https://github.com/fadhilhaka/100-Days-of-Swift/tree/main/Day%2016-18) |
 |[19](https://www.hackingwithswift.com/100/19)|  | Project 2, part one|
 |[20](https://www.hackingwithswift.com/100/20)|  | Project 2, part two|
 |[21](https://www.hackingwithswift.com/100/21)|  | Project 2, part three|
@@ -116,7 +116,7 @@ Do the following **every day** for **100 days**:
 
 ## Intention
 
-This repo is built to learn [Swift](https://developer.apple.com/swift/)  programming language using a challenge-based method.
+This repo is built to learn [Swift](https://developer.apple.com/swift/) programming language using a challenge-based method.
 
 ## Special Thanks
 
