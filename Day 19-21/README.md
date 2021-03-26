@@ -17,3 +17,6 @@ March 26<sup>th</sup> 2021
 
 * [Wrap up](https://www.hackingwithswift.com/read/2/6/wrap-up)
 * [Review for Project 2: Guess the Flag](https://www.hackingwithswift.com/review/hws/project-2-guess-the-flag)
+
+[Custom navigation title](https://stackoverflow.com/questions/31351307/customize-navigation-bar-by-adding-two-labels-instead-of-title-in-swift)
+[Stored properties and Computed properties](https://stackoverflow.com/questions/39635681/what-is-the-difference-between-the-following-3-declarations)
