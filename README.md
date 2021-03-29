@@ -34,7 +34,7 @@ Do the following **every day** for **100 days**:
 |[19](https://www.hackingwithswift.com/100/19)|  | [Project 2, part one](https://github.com/fadhilhaka/100-Days-of-Swift/tree/main/Day%2019-21) |
 |[20](https://www.hackingwithswift.com/100/20)|  | [Project 2, part two](https://github.com/fadhilhaka/100-Days-of-Swift/tree/main/Day%2019-21) |
 |[21](https://www.hackingwithswift.com/100/21)|  | [Project 2, part three](https://github.com/fadhilhaka/100-Days-of-Swift/tree/main/Day%2019-21) |
-|[22](https://www.hackingwithswift.com/100/22)|  | Project 3|
+|[22](https://www.hackingwithswift.com/100/22)|  | [Project 3](ttps://github.com/fadhilhaka/100-Days-of-Swift/tree/main/Day%2022) |
 |[23](https://www.hackingwithswift.com/100/23)| Consolidation II |Milestone: Projects 1-3|
 |[24](https://www.hackingwithswift.com/100/24)| Web views, user input, and Auto Layout | Project 4, part one|
 |[25](https://www.hackingwithswift.com/100/25)|  | Project 4, part two|

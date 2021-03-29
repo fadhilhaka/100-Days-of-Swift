@@ -32,13 +32,13 @@ class ViewController: UITableViewController {
     
     override func tableView(_ tableView: UITableView, cellForRowAt indexPath: IndexPath) -> UITableViewCell {
         let cell = tableView.dequeueReusableCell(withIdentifier: identifier, for: indexPath)
-            cell.textLabel?.text = "\(identifier) \(indexPath.row + 1) of \(pictureList.count)"
+            cell.textLabel?.text = "Picture \(indexPath.row + 1) of \(pictureList.count)"
         return cell
     }
     
     override func tableView(_ tableView: UITableView, didSelectRowAt indexPath: IndexPath) {
         let detailVC = DetailViewController()
-            detailVC.title = "\(identifier) \(indexPath.row + 1)"
+            detailVC.title = identifier
             detailVC.selectedImage = pictureList[indexPath.row]
             detailVC.modalPresentationStyle = .overFullScreen
             detailVC.modalTransitionStyle = .crossDissolve
