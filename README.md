@@ -36,9 +36,9 @@ Do the following **every day** for **100 days**:
 |[21](https://www.hackingwithswift.com/100/21)|  | [Project 2, part three](https://github.com/fadhilhaka/100-Days-of-Swift/tree/main/Day%2019-21) |
 |[22](https://www.hackingwithswift.com/100/22)|  | [Project 3](https://github.com/fadhilhaka/100-Days-of-Swift/tree/main/Day%2022) |
 |[23](https://www.hackingwithswift.com/100/23)| Consolidation II | [Milestone: Projects 1-3](https://github.com/fadhilhaka/100-Days-of-Swift/tree/main/Day%2023) |
-|[24](https://www.hackingwithswift.com/100/24)| Web views, user input, and Auto Layout | Project 4, part one|
-|[25](https://www.hackingwithswift.com/100/25)|  | Project 4, part two|
-|[26](https://www.hackingwithswift.com/100/26)|  | Project 4, part three|
+|[24](https://www.hackingwithswift.com/100/24)| Web views, user input, and Auto Layout | [Project 4, part one](https://github.com/fadhilhaka/100-Days-of-Swift/tree/main/Day%2024-26) |
+|[25](https://www.hackingwithswift.com/100/25)|  | [Project 4, part two](https://github.com/fadhilhaka/100-Days-of-Swift/tree/main/Day%2024-26) |
+|[26](https://www.hackingwithswift.com/100/26)|  | [Project 4, part three](https://github.com/fadhilhaka/100-Days-of-Swift/tree/main/Day%2024-26) |
 |[27](https://www.hackingwithswift.com/100/27)|  | Project 5, part one|
 |[28](https://www.hackingwithswift.com/100/28)|  | Project 5, part two|
 |[29](https://www.hackingwithswift.com/100/29)|  | Project 5, part three|
