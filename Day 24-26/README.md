@@ -2,6 +2,10 @@
 
 April 2<sup>nd</sup> 2021
 
+|                        |                        |                        |                        |
+|:----------------------:|:----------------------:|:----------------------:|:----------------------:|
+| ![](images/img_1.jpeg) | ![](images/img_2.jpeg) | ![](images/img_3.png)  | ![](images/img_4.png)  |
+
 ## [Project 4, Part One](https://www.hackingwithswift.com/100/24)
 
 * [Setting up](https://www.hackingwithswift.com/read/4/1/setting-up)
@@ -89,3 +93,8 @@ func webView(_ webView: WKWebView, decidePolicyFor navigationAction: WKNavigatio
 
 * [Wrap up](https://www.hackingwithswift.com/read/4/6/wrap-up)
 * [Review for Project 4: Easy Browser](https://www.hackingwithswift.com/review/hws/project-4-easy-browser)
+
+[Go back and forwand on webview](https://stackoverflow.com/questions/16704950/back-button-on-uiwebview)
+[Share link](https://stackoverflow.com/questions/37938722/how-to-implement-share-button-in-swift)
+[Send link](https://developer.apple.com/documentation/messageui/mfmessagecomposeviewcontroller)
+[Load view](https://developer.apple.com/documentation/uikit/uiviewcontroller/1621454-loadview)

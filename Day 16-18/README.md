@@ -2,6 +2,10 @@
 
 March 22<sup>nd</sup> 2021
 
+|                        |                        |
+|:----------------------:|:----------------------:|
+| ![](images/img_1.png)  | ![](images/img_2.png)  |
+
 ## [Project 1, Part One](https://www.hackingwithswift.com/100/16)
 
 * [Setting up](https://www.hackingwithswift.com/read/1/1/setting-up)

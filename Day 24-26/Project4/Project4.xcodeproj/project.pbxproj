@@ -13,6 +13,7 @@
 		D24AD7602616C2FA002BBAEC /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D24AD75E2616C2FA002BBAEC /* Main.storyboard */; };
 		D24AD7622616C2FD002BBAEC /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D24AD7612616C2FD002BBAEC /* Assets.xcassets */; };
 		D24AD7652616C2FD002BBAEC /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D24AD7632616C2FD002BBAEC /* LaunchScreen.storyboard */; };
+		D2B18BF32619AFDC008A6058 /* HomeRouter.swift in Sources */ = {isa = PBXBuildFile; fileRef = D2B18BF22619AFDC008A6058 /* HomeRouter.swift */; };
 		D2D3B4F82616E48800B41DFE /* Model.swift in Sources */ = {isa = PBXBuildFile; fileRef = D2D3B4F72616E48800B41DFE /* Model.swift */; };
 /* End PBXBuildFile section */
 
@@ -25,6 +26,7 @@
 		D24AD7612616C2FD002BBAEC /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		D24AD7642616C2FD002BBAEC /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		D24AD7662616C2FD002BBAEC /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D2B18BF22619AFDC008A6058 /* HomeRouter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeRouter.swift; sourceTree = "<group>"; };
 		D2D3B4F72616E48800B41DFE /* Model.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Model.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -82,8 +84,17 @@
 			children = (
 				D2D3B4F52616E45000B41DFE /* Entity */,
 				D2D3B4F62616E45900B41DFE /* View */,
+				D2B18BF12619AF9D008A6058 /* Router */,
 			);
 			path = Home;
+			sourceTree = "<group>";
+		};
+		D2B18BF12619AF9D008A6058 /* Router */ = {
+			isa = PBXGroup;
+			children = (
+				D2B18BF22619AFDC008A6058 /* HomeRouter.swift */,
+			);
+			path = Router;
 			sourceTree = "<group>";
 		};
 		D2D3B4F52616E45000B41DFE /* Entity */ = {
@@ -176,6 +187,7 @@
 				D24AD7592616C2FA002BBAEC /* AppDelegate.swift in Sources */,
 				D24AD75B2616C2FA002BBAEC /* SceneDelegate.swift in Sources */,
 				D2D3B4F82616E48800B41DFE /* Model.swift in Sources */,
+				D2B18BF32619AFDC008A6058 /* HomeRouter.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
