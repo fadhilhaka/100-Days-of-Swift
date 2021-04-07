@@ -260,3 +260,5 @@ Calling **rangeOfMisspelledWord(in:)** returns another NSRange structure, which 
 ## [Project 5, Part Three](https://www.hackingwithswift.com/100/29)
 
 [Custom UIBarButtonItem](https://stackoverflow.com/questions/31714978/setting-font-size-of-uibarbuttonitem)
+
+[Autoreleasepool](https://stackoverflow.com/questions/25860942/is-it-necessary-to-use-autoreleasepool-in-a-swift-program/25880106)

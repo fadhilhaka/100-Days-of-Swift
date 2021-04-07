@@ -20,7 +20,7 @@ struct ContentList {
               let contents = try? String(contentsOfFile: filepath)
         else { return ["silkworm"] }
         
-        return contents.components(separatedBy: "\n")
+        return autoreleasepool { contents.components(separatedBy: "\n") }
     }
     
     var wrappedValue: [String] {
