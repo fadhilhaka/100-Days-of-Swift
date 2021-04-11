@@ -42,8 +42,8 @@ Do the following **every day** for **100 days**:
 |[27](https://www.hackingwithswift.com/100/27)|  | [Project 5, part one](https://github.com/fadhilhaka/100-Days-of-Swift/tree/main/Day%2027-29) |
 |[28](https://www.hackingwithswift.com/100/28)|  | [Project 5, part two](https://github.com/fadhilhaka/100-Days-of-Swift/tree/main/Day%2027-29) |
 |[29](https://www.hackingwithswift.com/100/29)|  | [Project 5, part three](https://github.com/fadhilhaka/100-Days-of-Swift/tree/main/Day%2027-29) |
-|[30](https://www.hackingwithswift.com/100/30)|  | Project 6, part one|
-|[31](https://www.hackingwithswift.com/100/31)|  | Project 6, part two|
+|[30](https://www.hackingwithswift.com/100/30)|  | [Project 6, part one](https://github.com/fadhilhaka/100-Days-of-Swift/tree/main/Day%2030-31) |
+|[31](https://www.hackingwithswift.com/100/31)|  | [Project 6, part two](https://github.com/fadhilhaka/100-Days-of-Swift/tree/main/Day%2030-31) |
 |[32](https://www.hackingwithswift.com/100/32)| Consolidation II | Milestone: Projects 4-6|
 |[33](https://www.hackingwithswift.com/100/33)| Codable, buttons, and GCD | Project 7, part one|
 |[34](https://www.hackingwithswift.com/100/34)|  | Project 7, part two|

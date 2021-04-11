@@ -1,10 +1,10 @@
 # Project 5
 
-April 4<sup>nd</sup> 2021
+April 4<sup>th</sup> 2021
 
 |                        |                        |                        |                        |
 |:----------------------:|:----------------------:|:----------------------:|:----------------------:|
-| ![](images/img_1.png) | ![](images/img_2.png) | ![](images/img_3.png)  | ![](images/img_4.png)  |
+| ![](images/img_1.png)  | ![](images/img_2.png)  | ![](images/img_3.png)  | ![](images/img_4.png)  |
 
 ## [Project 5, Part One](https://www.hackingwithswift.com/100/27)
 
