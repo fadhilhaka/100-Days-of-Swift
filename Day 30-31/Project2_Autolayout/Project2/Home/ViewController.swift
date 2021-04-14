@@ -24,12 +24,12 @@ class ViewController: UIViewController {
         return label
     }()
     
-    private let totalQuestionLabel : UILabel = {
-        let label = UILabel()
-            label.font = .systemFont(ofSize: 14, weight: .light)
-            label.textAlignment = .center
-        return label
-    }()
+//    private let totalQuestionLabel : UILabel = {
+//        let label = UILabel()
+//            label.font = .systemFont(ofSize: 14, weight: .light)
+//            label.textAlignment = .center
+//        return label
+//    }()
     
     private var titleStackView: UIStackView {
         get {
@@ -79,12 +79,12 @@ class ViewController: UIViewController {
         flag1.layer.borderWidth = 2
         flag2.layer.borderWidth = 2
         flag3.layer.borderWidth = 2
-        infoLabel.text = "Question(s) Answered: \(question)"
+        infoLabel.text = question > 1 ? "Questions answered: \(question)" : "Question answered: \(question)"
         scoreLabel.text = "\(score)"
     }
     
     private func setupTitle() {
-        infoLabel.text = "Question(s) Answered: \(question)"
+        infoLabel.text = "Question answered: \(question)"
         scoreLabel.text = "\(score)"
         titleLabel.text = countries[correctAnswer].uppercased()
 //        totalQuestionLabel.text = "Question(s) Answered: \(question) | Score: \(score)"
@@ -98,10 +98,16 @@ class ViewController: UIViewController {
             return
         }
         
-        countries.shuffle()
-        flag1.setImage(UIImage(named: countries[0]), for: .normal)
-        flag2.setImage(UIImage(named: countries[1]), for: .normal)
-        flag3.setImage(UIImage(named: countries[2]), for: .normal)
+        let currentCountry = countries[correctAnswer]
+        
+        while currentCountry == countries[correctAnswer] {
+            correctAnswer = Int.random(in: 0...2)
+            countries.shuffle()
+            flag1.setImage(UIImage(named: countries[0]), for: .normal)
+            flag2.setImage(UIImage(named: countries[1]), for: .normal)
+            flag3.setImage(UIImage(named: countries[2]), for: .normal)
+        }
+        
         setupTitle()
     }
     
